@@ -1,4 +1,4 @@
-/* * Data converted from /home/arturpaschoal/ProjectsEsp32/semaphore_simulator_esp32/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /home/arturpaschoal/Github/semaphore_simulator/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

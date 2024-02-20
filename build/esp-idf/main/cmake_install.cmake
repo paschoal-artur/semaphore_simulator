@@ -1,4 +1,4 @@
-# Install script for directory: /home/arturpaschoal/ProjectsEsp32/semaphore_simulator_esp32/main
+# Install script for directory: /home/arturpaschoal/Github/semaphore_simulator/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
