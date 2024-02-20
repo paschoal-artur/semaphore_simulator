@@ -3,9 +3,9 @@
 #include <freertos/FreeRTOS.h>
 #include <freertos/task.h>
 
-#define RED_LED_PIN GPIO_NUM_16
-#define YELLOW_LED_PIN GPIO_NUM_4
-#define GREEN_LED_PIN GPIO_NUM_2
+#define RED_LED_PIN GPIO_NUM_25
+#define YELLOW_LED_PIN GPIO_NUM_26
+#define GREEN_LED_PIN GPIO_NUM_27
 
 void setup_led()
 {
